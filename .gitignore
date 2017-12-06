@@ -1,0 +1,5 @@
+OutputInvalidPasswordResults.txt
+bin/
+.classpath
+.project
+.settings/
